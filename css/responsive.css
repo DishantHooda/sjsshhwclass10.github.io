@@ -1,0 +1,42 @@
+@media screen and (max-width:900px) {
+    .hdtxt{
+        font-size: 35px;
+    text-shadow: 1px 1px 10px royalblue;
+    }
+    .topnav a{
+        padding: 10px 12px;
+        font-size: 20px;
+    }
+    .txtfooter{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:610px){
+   .hdtxt{
+        text-align: center;
+   }
+   .txtfooter{
+    text-align: center;
+   }
+}
+@media screen and (max-width:419px){
+    .fs{
+        margin-right: 12px;
+    }
+}
+@media screen and (max-width:410px){
+    .fs{
+        margin-right: 10px;
+    }
+}
+@media screen and (max-width:399px){
+    .fs{
+        margin-right: 0px;
+    }
+}
+@media screen and (max-width:450px){
+    .topnav{
+        display: flex;
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* main starts  */
+.main{
+    margin-top: 90px;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.maintxt{
+    align-items: center;
+    border-bottom: 3px solid black;
+}
+ 
+/* main ends  */
+
+ /* secondary starts */
+ .scndtxt{
+     border-bottom: 3px solid black;
+ }
+
+
+/* maths starts  */
+
+.maths{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.maths span{
+    width: 200px;
+    height: 50px;
+    background-color: blueviolet;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.maths span a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.maths span a:hover{
+    border-bottom: 2px solid white;
+}
+
+
+/* maths ends  */
+
+/* english section starts  */
+
+.english{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.english span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(103, 248, 7);
+    border-radius: 50px;
+}
+.english span a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.english span a:hover{
+    border-bottom: 2px solid white;
+}
+
+/*  english section ends  */
+
+/* hindi starts  */
+.hindi{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.hindi span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(31, 7, 248);
+    border-radius: 50px;
+}
+.hindi span a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.hindi span a:hover{
+    border-bottom: 2px solid white;
+}
+/* hindi ends  */
+
+/* science starts  */
+.science{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.science span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(7, 248, 216);
+    border-radius: 50px;
+}
+.science span a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.science span a:hover{
+    border-bottom: 2px solid white;
+}
+/* science ends  */
+
+/* physics starts  */
+.physics{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.physics span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(248, 7, 128);
+    border-radius: 50px;
+}
+.physics span a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.physics span a:hover{
+    border-bottom: 2px solid white;
+}
+/* physics ends  */
+
+/* art starts  */
+.art{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.art span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(248, 184, 7);
+    border-radius: 50px;
+}
+.art span a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.art span a:hover{
+    border-bottom: 2px solid white;
+}
+/* art ends  */

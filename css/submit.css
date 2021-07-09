@@ -1,0 +1,14 @@
+.submit{
+    margin-top: 150px;
+    margin-bottom: 50px;
+
+}
+.sbt{
+    display: flex;
+    justify-content: center;
+}
+.sbt span{
+    /* font-weight: 700; */
+    font-size: 30px;
+    border-bottom: 3px solid black;
+}
